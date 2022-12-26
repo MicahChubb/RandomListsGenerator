@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micah\\source\\repos\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj": {}
+    "E:\\Users\\Micah\\Documents\\GitHub\\RandomListsGenerator\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micah\\source\\repos\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj": {
+    "E:\\Users\\Micah\\Documents\\GitHub\\RandomListsGenerator\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micah\\source\\repos\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj",
+        "projectUniqueName": "E:\\Users\\Micah\\Documents\\GitHub\\RandomListsGenerator\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj",
         "projectName": "findSomeoneWho",
-        "projectPath": "C:\\Users\\Micah\\source\\repos\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj",
+        "projectPath": "E:\\Users\\Micah\\Documents\\GitHub\\RandomListsGenerator\\findSomeoneWho\\findSomeoneWho\\findSomeoneWho.csproj",
         "packagesPath": "C:\\Users\\Micah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micah\\source\\repos\\findSomeoneWho\\findSomeoneWho\\obj\\",
+        "outputPath": "E:\\Users\\Micah\\Documents\\GitHub\\RandomListsGenerator\\findSomeoneWho\\findSomeoneWho\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
