@@ -15,7 +15,7 @@ namespace findSomeoneWho
         public Form1()
         {
             InitializeComponent();
-            openFileDialog1.Filter = "CSV files (*.csv)|*.csv|Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            openFileDialog1.Filter = "CSV files (*.csv)|*.csv|Text files (*.txt)|*.txt";
         }
 
         private void btnBrowse_Click(object sender, EventArgs e)
