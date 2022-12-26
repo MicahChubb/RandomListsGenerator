@@ -1,0 +1,17 @@
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\bin\Debug\net6.0-windows\findSomeoneWho.exe
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\bin\Debug\net6.0-windows\findSomeoneWho.deps.json
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\bin\Debug\net6.0-windows\findSomeoneWho.runtimeconfig.json
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\bin\Debug\net6.0-windows\findSomeoneWho.dll
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\bin\Debug\net6.0-windows\findSomeoneWho.pdb
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.csproj.AssemblyReference.cache
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.Form1.resources
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.csproj.GenerateResource.cache
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.AssemblyInfoInputs.cache
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.AssemblyInfo.cs
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.csproj.CoreCompileInputs.cache
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.dll
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\refint\findSomeoneWho.dll
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.pdb
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\findSomeoneWho.genruntimeconfig.cache
+C:\Users\Micah\source\repos\findSomeoneWho\findSomeoneWho\obj\Debug\net6.0-windows\ref\findSomeoneWho.dll
